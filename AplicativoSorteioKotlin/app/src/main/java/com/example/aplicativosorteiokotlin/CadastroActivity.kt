@@ -19,8 +19,6 @@ class CadastroActivity : AppCompatActivity() {
         val btnCadastrar = findViewById<Button>(R.id.btnCadastrar)
 
         btnCadastrar.setOnClickListener {
-            // Você estava usando editUsuarioCadastro e editSenhaCadastro
-            // Mas deveria usar as variáveis que declarou: editUsuario e editSenha
             val usuario = editUsuario.text.toString().trim()  // Corrigido
             val senha = editSenha.text.toString().trim()     // Corrigido
 
