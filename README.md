@@ -1,4 +1,4 @@
-# 📱 Mini ERP de Cadastro de Pessoas
+# 📱 NEO PESSOAS
 
 Projeto acadêmico de um aplicativo Android standalone, desenvolvido em **Kotlin** utilizando o **Android Studio**, com foco na **gestão local de pessoas**. A aplicação funciona como um Mini ERP, com **persistência de dados via SQLite**, interface amigável e suporte completo a operações de CRUD.
 
@@ -69,4 +69,4 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 
 ---
 
-Desenvolvido com 💙 por [Seu Nome](https://github.com/seu-usuario)
+Desenvolvido com 💙 por [Felipe Ehara](https://github.com/felipeehara) e [Gustavo Omodei](https://github.com/gustavo-omodei)
