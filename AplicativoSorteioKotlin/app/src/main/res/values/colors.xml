@@ -1,0 +1,16 @@
+<resources>
+    <!-- Cores da paleta -->
+    <color name="colorPrimary">#52796F</color>         <!-- Verde-azulado escuro -->
+    <color name="colorPrimaryLight">#84A98C</color>    <!-- Verde claro -->
+    <color name="colorPrimaryDark">#354F52</color>     <!-- Verde-azulado muito escuro -->
+    <color name="colorSecondary">#CAD2C5</color>       <!-- Cinza esverdeado claro -->
+    <color name="colorDark">#2F3E46</color>            <!-- Azul petróleo escuro -->
+
+    <!-- Cores funcionais -->
+    <color name="colorBackground">#FFFFFF</color>
+    <color name="colorTextPrimary">#2F3E46</color>
+    <color name="colorTextSecondary">#757575</color>
+    <color name="colorDivider">#EEEEEE</color>
+    <color name="colorAccent">#354F52</color>
+    <color name="white">#FFFFFF</color>
+</resources>
