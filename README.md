@@ -30,12 +30,6 @@ A base de dados é armazenada localmente usando **SQLite**, e cada pessoa cadast
 - 🗃️ SQLiteDatabase (persistência local)
 - 📱 XML para construção das interfaces
 
-## 📸 Screenshots *(adicione aqui imagens do app, se quiser)*
-
-| Login | Cadastro | Lista |
-|:--:|:--:|:--:|
-| ![login](path/to/login.png) | ![cadastro](path/to/cadastro.png) | ![lista](path/to/lista.png) |
-
 ## 🎯 Objetivo do Projeto
 
 Este app foi desenvolvido com fins **educacionais**, ideal para:
