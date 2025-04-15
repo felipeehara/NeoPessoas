@@ -50,7 +50,7 @@ Além disso, ele pode ser facilmente adaptado para **pequenos negócios** que ne
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/mini-erp-cadastro.git
+   git clone https://github.com/felipeehara/NeoPessoas
    ```
 
 2. Abra o projeto no **Android Studio**
